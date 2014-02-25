@@ -1,0 +1,35 @@
+{
+  "name": "Ecotour-styleguide",
+  "version": "0.0.1",
+  "description": "Help for front-end using LESS CSS.",
+  "main": "index.js",
+  "author": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thibaudbe/Ecotour-styleguide.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thibaudbe/Ecotour-styleguide/issues"
+  },
+  "homepage": "https://github.com/thibaudbe/Ecotour-styleguide",
+  "devDependencies": {
+    "coffee-script": "~1.7.1",
+    "gulp-util": "~2.2.14",
+    "gulp": "~3.5.2",
+    "gulp-less": "~1.2.1"
+  },
+  "dependencies": {
+    "gulp-livereload": "~1.1.1",
+    "gulp-minify-css": "~0.3.0",
+    "gulp-rename": "~1.1.0",
+    "gulp-concat": "~2.1.7",
+    "gulp-watch": "~0.5.0",
+    "gulp-uglify": "~0.2.1",
+    "gulp-clean": "~0.2.4",
+    "gulp-concat-css": "~0.1.1"
+  }
+}
