@@ -1,6 +1,6 @@
-# Ecotour front-end styleguide
+# Starter styleguide
 
-This is a helpfull guide for front-end development using Daux.io.
+This is an helpfull styleguide for front-end development using Daux.io.
 
 ## New features
 
