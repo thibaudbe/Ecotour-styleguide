@@ -15,6 +15,6 @@ I added new features from the base framework :
 
 Run:
 
-	grunt --require coffee-script/register
+	gulp --require coffee-script/register
 	
-	
+Then change code, it will be concatenated in one minified css file & one minified js file.
