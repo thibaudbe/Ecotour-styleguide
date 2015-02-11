@@ -18,3 +18,5 @@ Run:
 	gulp --require coffee-script/register
 	
 Then change code, it will be concatenated in one minified css file & one minified js file.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-59640055-1/Starter-styleguide/readme)](https://github.com/igrigorik/ga-beacon)
